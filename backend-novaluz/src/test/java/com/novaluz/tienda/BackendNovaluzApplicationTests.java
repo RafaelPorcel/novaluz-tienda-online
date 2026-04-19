@@ -1,4 +1,4 @@
-package com.example.backendnovaluz;
+package com.novaluz.tienda;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
