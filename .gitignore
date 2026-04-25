@@ -1,2 +1,26 @@
-node_modules/
-/backend/target/
+# Logs y archivos temporales
+nohup.out
+*.log
+
+# Archivos de la IA
+GEMINI.md
+
+# Archivos de IntelliJ y configuración personal
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Compilados de Java
+**/target/
+
+# Node / Frontend
+**/node_modules/
+dist/
+
+# Archivos generados automáticamente
+HELP.md
+.mvn/wrapper/maven-wrapper.jar
+
+# Sistema
+.DS_Store
